@@ -1,0 +1,1 @@
+This dashboard presents an analytical overview of Netflix’s content catalog, using key metrics and visualizations. The purpose is to provide insights into the distribution, genre, rating, and production trends of titles available on Netflix.
